@@ -1,12 +1,11 @@
-package newPackage;
+package suyashaPackage;
 
 import org.testng.annotations.Test;
 
-public class PragathiTest {
+public class SuyashaTest {
 	
 	
 
-public class DemoTest {
 	@Test(groups = {"smoke","regression"})
 	public void demoOne() {
 		System.out.println("--testScript3--");
@@ -22,4 +21,3 @@ public class DemoTest {
 }
 
 
-}
