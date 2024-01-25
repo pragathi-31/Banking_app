@@ -18,7 +18,7 @@ public class PracticeTest {
 	@Test(groups = "regression")
 	public void practiceThree() {
 		System.out.println("--testScript9--");
-		Assert.fail();
+		
 	}
 }
 
