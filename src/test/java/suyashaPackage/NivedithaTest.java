@@ -17,6 +17,10 @@ public class NivedithaTest {
 	public void NivThree() {
 		System.out.println("--testScript5--");
 	}
+	@Test(groups = "regression")
+	public void NivFour() {
+		System.out.println("--testScript5--");
+	}
 }
 
 
