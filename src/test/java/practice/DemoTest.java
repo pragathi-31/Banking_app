@@ -7,6 +7,7 @@ public class DemoTest {
 	public void demoOne() {
 		System.out.println("--testScript3--");
 		
+		
 	}
 	@Test(groups = "regression")
 	public void demoTwo() {
