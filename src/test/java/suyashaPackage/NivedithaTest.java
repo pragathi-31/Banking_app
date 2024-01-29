@@ -20,6 +20,8 @@ public class NivedithaTest {
 	@Test(groups = "regression")
 	public void NivFour() {
 		System.out.println("--testScript5--");
+		System.out.println("hello");
+		System.out.println("yooo");
 	}
 }
 
