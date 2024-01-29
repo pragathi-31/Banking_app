@@ -23,6 +23,10 @@ public class PracticeTest {
 		
 		
 	}
+	@Test
+	public void practiceFour() {
+		System.out.println("--test--");
+	}
 }
 
 
