@@ -17,4 +17,8 @@ public class PracticeTest {
 		System.out.println("--testScript9--");
 		
 	}
+	@Test
+	public void PracticeFour() {
+		System.out.println("--test--");
+	}
 }
